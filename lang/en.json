@@ -221,9 +221,6 @@
   "MGT2.Skills.teleportation": "Teleportation",
   "MGT2.Skills.untrained": "Untrained",
 
-
-
-
   "MGT2.TravellerSheet.Player": "Player",
   "MGT2.TravellerSheet.Species": "Species",
   "MGT2.TravellerSheet.Gender": "Gender",
@@ -376,7 +373,6 @@
   "MGT2.WorldSheet.DropStreetwise": "Drop actor to set ship streetwise",
   "MGT2.WorldSheet.TradeFolder": "Trade Folder",
   "MGT2.WorldSheet.TradeFolderHint": "Name of folder of cargo items to use as speculative trade goods on this world",
-  "MGT2.WorldSheet.DropStreetwise": "Drop actor to set ship streetwise",
   "MGT2.WorldSheet.LocalGoods": "Local Goods",
 
   "MGT2.WorldSheet.Atmosphere.Composition.0": "None",
@@ -674,8 +670,8 @@
   "MGT2.Spacecraft.SensorSuite.densitometer": "Densitometer",
   "MGT2.Spacecraft.SensorSuite.jammers": "Jammers",
 
-  "MGT2.Spacecraft.DefenceType.meson":  "Meson Screen",
-  "MGT2.Spacecraft.DefenceType.nuclear":  "Nuclear Damper",
+  "MGT2.Spacecraft.DefenceType.meson": "Meson Screen",
+  "MGT2.Spacecraft.DefenceType.nuclear": "Nuclear Damper",
   "MGT2.Spacecraft.DefenceType.blackGlobe": "Black Globe",
   "MGT2.Spacecraft.DefenceType.laserPD": "Laser Point Defence",
   "MGT2.Spacecraft.DefenceType.gaussPD": "Gauss Point Defence",
@@ -1047,7 +1043,6 @@
   "MGT2.Item.Hardware.Tonnage.Title.powerByRating": "Power is based on rating of item",
   "MGT2.Item.Hardware.Tonnage.Title.fixedPower": "Power is a fixed value",
 
-
   "MGT2.Armour.FormType": "Armour Type",
   "MGT2.Armour.Form.Standard": "Standard",
   "MGT2.Armour.Form.Layered": "Anti-Energy",
@@ -1214,17 +1209,17 @@
   "MGT2.Role.Special.Evade": "Evade",
   "MGT2.Role.Special.Repair": "Repair System",
 
-  "MGT2.Role.BuiltIn.Name.Gunner":  "Gunner",
-  "MGT2.Role.BuiltIn.Name.Pilot":  "Pilot",
-  "MGT2.Role.BuiltIn.Name.Engineer":  "Engineer",
-  "MGT2.Role.BuiltIn.Name.Broker":  "Broker",
-  "MGT2.Role.BuiltIn.Name.Sensors":  "Sensor Op",
-  "MGT2.Role.BuiltIn.Name.Navigator":  "Astrogator",
-  "MGT2.Role.BuiltIn.Name.Captain":  "Captain",
-  "MGT2.Role.BuiltIn.Name.Officer":  "Officer",
-  "MGT2.Role.BuiltIn.Name.Mechanic":  "Mechanic",
-  "MGT2.Role.BuiltIn.Name.Steward":  "Steward",
-  "MGT2.Role.BuiltIn.Name.Medic":  "Medic",
+  "MGT2.Role.BuiltIn.Name.Gunner": "Gunner",
+  "MGT2.Role.BuiltIn.Name.Pilot": "Pilot",
+  "MGT2.Role.BuiltIn.Name.Engineer": "Engineer",
+  "MGT2.Role.BuiltIn.Name.Broker": "Broker",
+  "MGT2.Role.BuiltIn.Name.Sensors": "Sensor Op",
+  "MGT2.Role.BuiltIn.Name.Navigator": "Astrogator",
+  "MGT2.Role.BuiltIn.Name.Captain": "Captain",
+  "MGT2.Role.BuiltIn.Name.Officer": "Officer",
+  "MGT2.Role.BuiltIn.Name.Mechanic": "Mechanic",
+  "MGT2.Role.BuiltIn.Name.Steward": "Steward",
+  "MGT2.Role.BuiltIn.Name.Medic": "Medic",
 
   "MGT2.Role.BuiltIn.Action.Pilot": "Piloting",
   "MGT2.Role.BuiltIn.Action.PortLanding": "Port Landing",
