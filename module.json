@@ -1,4 +1,5 @@
 {
+  "id": "fvtt-module-mgt2e-es",
   "title": "Translation: Spanish [Mongoose Traveller 2e]",
   "description": "Traducción del sistema Mongoose Traveller 2e (https://github.com/Mongoose-Publishing/traveller-foundryvtt/) al español -  Mongoose Traveller 2e spanish translation",
   "version": "0.15.5.2.1",
@@ -10,9 +11,8 @@
     }
   ],
   "url": "https://github.com/foundryvttespanol/fvtt-module-mgt2e-es",
-  "manifest": "https://raw.githubusercontent.com/foundryvttespanol/fvtt-module-mgt2e-es/master/module.json",
-  "download": "https://github.com/foundryvttespanol/fvtt-module-mgt2e-es/archive/master.zip",
-  "id": "fvtt-module-mgt2e-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttespanol/fvtt-module-mgt2e-es/main/module.json",
+  "download": "https://github.com/foundryvttespanol/fvtt-module-mgt2e-es/archive/main.zip",
   "authors": [{
       "name": "xyxorswords",
       "flags": {}
